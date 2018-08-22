@@ -194,7 +194,7 @@ msgstr "Πίνακας αποτελεσμάτων"
 
 #: competitions/templates/competitions/competition_navbar.html:38
 msgid "Participate in competition"
-msgstr ""
+msgstr "Συμμετοχή στον διαγωνισμό"
 
 #: competitions/templates/competitions/competition_navbar.html:58
 msgid "All submissions for this "
@@ -376,19 +376,19 @@ msgstr ""
 
 #: competitions/templates/competitions/methodlist.html:27
 msgid "Publicize"
-msgstr ""
+msgstr "Διαφημίζω"
 
 #: competitions/templates/competitions/methodlist.html:30
 msgid "Privatize"
-msgstr ""
+msgstr "Ιδιωτικοποιώ"
 
 #: competitions/templates/competitions/methodlist.html:33
 msgid "Delete"
-msgstr ""
+msgstr "Διαγραφή"
 
 #: competitions/templates/competitions/methodlist.html:39
 msgid "You have not submitted any methods yet!"
-msgstr ""
+msgstr "Δεν έχετε υποβάλει ακόμη μεθόδους!"
 
 #: competitions/templates/competitions/scoreboard.html:23
 msgid "Ranking for Track "
@@ -464,13 +464,15 @@ msgstr ""
 
 #: competitions/views.py:126
 msgid "User {} has been blocked. Please contact the administrator for details."
-msgstr ""
+msgstr "Ο χρήστης {} έχει αποκλειστεί. Επικοινωνήστε με τον διαχειριστή για λεπτομέρειες."
 
 #: competitions/views.py:130
 msgid ""
 "User {} does not exist. Please make sure that you have correctly typed your "
 "username, or register to create a new username."
 msgstr ""
+"Ο χρήστης {} δεν υπάρχει, βεβαιωθείτε ότι έχετε πληκτρολογήσει σωστά το"
+"όνομα χρήστη, ή εγγραφείτε για να δημιουργήσετε ένα νέο όνομα χρήστη."
 
 #: competitions/views.py:161
 msgid ""
@@ -484,6 +486,8 @@ msgid ""
 "You have recently submitted a method. Site policy is at most one submission "
 "per *2 minutes*. Please re-submit at a later time."
 msgstr ""
+"Πρόσφατα υποβάλατε μια μέθοδο. Η πολιτική του ιστότοπου είναι το πολύ μία υποβολή"
+"ανά * 2 λεπτά *, παρακαλούμε να το υποβάλετε ξανά αργότερα."
 
 #: competitions/views.py:213
 msgid "Submission {} with id {} has been submitted succesfully. "
@@ -497,15 +501,15 @@ msgstr "Η υποβολή {} με αύξων αριθμό {} υποβλήθηκ�
 
 #: scriptnet/settings.py:127
 msgid "English"
-msgstr ""
+msgstr "Αγγλικά"
 
 #: scriptnet/settings.py:128
 msgid "French"
-msgstr ""
+msgstr "Γαλλικά"
 
 #: scriptnet/settings.py:129
 msgid "Greek"
-msgstr ""
+msgstr "Ελληνικά"
 
 #~ msgid "Sign in"
 #~ msgstr "Σύνδεση"
